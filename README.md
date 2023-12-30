@@ -4,13 +4,13 @@ PLC
 
 系统主控采用Siemens S7-1200 PLC，编程软件使用TIA Portal V16。
 
-下载链接：TIA Portal v16（博途）安装教程 (qq.com)
+下载链接：https://mp.weixin.qq.com/s/9gr99aC8PfP83RTgo1FtTg
 
 触摸屏
 
 触摸屏采用昆仑通态(MCGS)TPC7062Ti型号，编程软件使用MCGS嵌入版7.7。
 
-下载链接：MCGS安装包_ 7.7 .1.7_V1.2.7z【点击下载】- 无锡昆态科技有限公司，自动化嵌入式触摸屏应用系统集成 (wxmcgs.net)
+下载链接：http://wxmcgs.net/ruanjianxiazai/103.html
 
 视觉
 
@@ -18,9 +18,9 @@ IDE采用Visual Studio Code，语言采用Python 3.11.6，视觉识别采用Open
 
 下载链接：
 
-1.Visual Studio Code：Visual Studio Code - Code Editing. Redefined
+1.Visual Studio Code：https://code.visualstudio.com/
 
-2.Python：Python 发布 Python 3.11.6 |Python.org
+2.Python：https://www.python.org/downloads/release/python-3116/
 
 3.Snap7：pip install snap7
 
@@ -51,7 +51,7 @@ PLC
 
 3.打开Visual Studio Code，到OpenCV.py文件中第22行，修改cv2.VideoCapture参数，一般0是电脑默认摄像头，1是视觉相机。
 
-e.g：vc = cv2.VideoCapture(1)
+vc = cv2.VideoCapture(1)
 
 4.运行ChineseChessVision.py文件，如果视频画面不正确，请回到OpenCV.py文件中修改cv2.VideoCapture()参数。视觉程序正常的启动时间会比较久，因电脑而异，笔者电脑的启动时间为1分钟左右。
 
@@ -96,3 +96,14 @@ Abs参考速度：70mm/s，点动参考速度：50mm/s。
 4.按下【OK】按钮，吸盘回原点后，启动视觉相机拍照。
 5.等待视觉识别，待【AI】计算完位置后，会自动执行。
 提示：在手动吃子时，需要先点击对方【棋子】，按下【Eliminate】按钮，将对方棋子移动到吃子位置。在由【AI】吃子时则自动完成此流程。
+
+远程代码库：
+
+1.Github：https://github.com/GitHub-yiming/ChineseChess
+
+2.Gitee：https://gitee.com/hu-yiming123/ChineseChess
+
+有问题可以创建Issues提问，后续如果更新会在上面提交最新代码。
+
+注意：Github没有使用VPN的情况下可能出现无法访问，国内建议访问Gitee。
+
