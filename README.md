@@ -1,6 +1,7 @@
 1	运行环境说明
 
 PLC
+
 系统主控采用Siemens S7-1200 PLC，编程软件使用TIA Portal V16。
 下载链接：TIA Portal v16（博途）安装教程 (qq.com)
 触摸屏
