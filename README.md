@@ -110,6 +110,12 @@ Abs参考速度：70mm/s，点动参考速度：50mm/s。
 
 注意：Github没有使用VPN的情况下可能出现无法访问，国内建议访问Gitee。
 
+运行视频：
+
+合集：https://www.bilibili.com/video/BV1NN4y1B7Dx/?spm_id_from=333.999.0.0&vd_source=8ab5c6efde6709df2c141423e2eb0c77
+
+操作视频：https://www.bilibili.com/video/BV1ze41167f6/?spm_id_from=333.999.0.0&vd_source=8ab5c6efde6709df2c141423e2eb0c77
+
 
 参考链接：
 
