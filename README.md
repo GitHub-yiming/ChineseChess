@@ -107,3 +107,8 @@ Abs参考速度：70mm/s，点动参考速度：50mm/s。
 
 注意：Github没有使用VPN的情况下可能出现无法访问，国内建议访问Gitee。
 
+
+参考链接：
+OpenCV：https://github.com/STM32xxx/OpenCV-Cascade-Classifier
+Chess：https://github.com/58c/Chinese-chess
+
